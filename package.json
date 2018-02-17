@@ -1,0 +1,22 @@
+{
+  "name": "borrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-eslint": "^4.0.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0"
+  },
+  "scripts": {
+    "test": "test",
+    "transpile": "gulp"
+  },
+  "author": "valeraman",
+  "license": "ISC"
+}
